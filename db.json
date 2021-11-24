@@ -2,9 +2,17 @@
     "concerts":[
         {
             "name": "Westlife",
-            "place": "Aviva Stadium"
-            
-        },
+            "place": "Aviva Stadium",
+            "genre": "Rock/Pop",
+            "runningTimes": {
+              "fri": [
+                "18:00"
+              ],
+              "sat": [
+                "18:00"
+              ]
+            }     
+       },
         {
             "name": "Alanis Morissette",
             "place": "3Arena"
