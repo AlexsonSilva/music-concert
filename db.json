@@ -14,10 +14,31 @@
             }     
        },
         {
-            "name": "Alanis Morissette",
-            "place": "3Arena"
-            
-        }    
+            "name": "kodaline",
+            "place": "3Olympia Theatre",
+            "genre": "Rock/Pop",
+            "runningTimes": {
+              "wed": [
+                "19:00"
+              ],
+              "thu": [
+                "19:00"
+              ]
+            }     
+       },
+        {
+            "name": "Simply Red",
+            "place": "3Arena",
+            "genre": "Rock/Pop",
+            "runningTimes": {
+              "wed": [
+                "20:00"
+              ],
+              "thu": [
+                "20:00"
+              ]
+            }     
+       }
 
     ]
 }
